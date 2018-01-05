@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  * Created by tracy.wei on 2017/4/18.
  */
-public class demo {
+public class Demo {
     WebDriver driver = null;
     @Given("^I have opened the browser$")
     public void iHaveOpenedTheBrowser() throws Throwable {
